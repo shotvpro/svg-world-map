@@ -1,5 +1,5 @@
 import * as THREE from "three";
-import {OrbitControls} from "three/addons/controls/OrbitControls.js";
+import {OrbitControls} from "three/examples/js/controls/OrbitControls.js";
 import {GUI} from "https://cdn.skypack.dev/lil-gui@0.17.0";
 
 const containerEl = document.querySelector(".globe-wrapper");
